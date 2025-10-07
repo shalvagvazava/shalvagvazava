@@ -11,7 +11,7 @@
 <p style="color: #f4fc03;">
 Hello my name is Shalva and I am a Quality Assurance Specialist passionate about delivering high quality products through thoughtful testing
 🔍
-I specialize in:
+<br>I specialize in:
 Automated and Manual testing
 Web & API testing
 Writing clear bug reports and test cases
