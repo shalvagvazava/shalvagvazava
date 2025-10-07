@@ -46,6 +46,7 @@ Thanks for reading! ♥
 ## Contact info 📞
  - Email: gvazava.shalva5@gmail.com 📩
  + Linkedin:  [My Linkedin Profile.dev](https://www.linkedin.com/in/shalva-gvazava-1a1590285/) 🌎
+ + Mobile: +995 597 52 51 50
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer">
 
 
